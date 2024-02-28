@@ -12,9 +12,9 @@ title                    : "Yongpeng Jiang" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yongpeng Jiang"
 description              : &description "A PhD student confused by robotics"
-url                      : https://jump-thu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://director-of-g.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Director-of-G/jump-thu.github.io.git"
+repository               : "Director-of-G/director-of-g.github.io.git"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
