@@ -31,3 +31,18 @@ Inspired by recent advancements in contact-rich locomotion and manipulation, thi
 
 
 [[Website](https://director-of-g.github.io/in_hand_manipulation/)]
+
+## Robotic Pushing Manipulation in the Cluttered Environments
+
+* 10/2022 - Now
+* Intelligent Robotic Manipulation Lab, Tsinghua University
+* Advisor: Prof. Xiang Li
+
+<!-- <p align="center">
+<iframe width="640" height="360" src="../files/23_DLO_planning_journal.mp4" title="23_DLO_planning_journal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</p> -->
+
+This paper proposes a new non-prehensile manipulation method for the task of object retrieval in cluttered environments, using a rod-like pusher. Specifically, a candidate trajectory in a cluttered environment is first generated with an improved Rapidly-Exploring Random Tree (RRT) planner; Then, a Model Predictive Control (MPC) scheme is applied to stabilize the slider's poses through necessary contact with obstacles. Different from existing methods, the proposed approach is with the contact-aware feature, which enables the synthesized effect of active removal of obstacles, avoidance behavior, and switching contact face for improved dexterity. Hence both the feasibility and efficiency of the task are greatly promoted. The performance of the proposed method is validated in a planar object retrieval task, where the target object, surrounded by many fixed or movable obstacles, is manipulated and isolated. Both simulation and experimental results are presented.
+
+
+[[Website](https://director-of-g.github.io/push_in_clutter/)]
