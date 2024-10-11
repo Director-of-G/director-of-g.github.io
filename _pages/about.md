@@ -11,7 +11,7 @@ redirect_from:
 
 # Introduction
 
-I am Yongpeng Jiang, a second-year PhD student in the in the [Intelligent Manipulation Lab](https://thu-irml.com), Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home).
+I am Yongpeng Jiang, a second-year PhD student in the [Intelligent Manipulation Lab](https://thu-irml.com), Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home).
 
 Currently my research focuses on dexterous manipulation under rich contacts, especially with multi-fingered hands. It's an honor to have been working with [Mingrui Yu](https://mingrui-yu.github.io/) in dexterous manipulation and deformable objects manipulation, and with [Xiangjie Yan](https://yanseim.github.io/) in human-robot collaboration. They are people of great ability and enthusiasm.
 
@@ -54,7 +54,7 @@ Topic: Vehicle trajectory prediction
 
 1. **Y. Jiang**, M. Yu , X. Zhu, M. Tomizuka, and X. Li, "Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024. [[Paper](https://arxiv.org/abs/2402.18897)] [[Website](https://director-of-g.github.io/in_hand_manipulation/)]
 2. X. Yan, S. Luo, **Y. Jiang**, M. Yu, C. Chen, G. Huang, and X. Li, "A Unified Interaction Control Framework for Safe Robotic Ultrasound Scanning with Human-Intention-Aware Compliance", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024. (**Oral**, Top 12%)
-3. Y. Jiang, Y. Jia, and X. Li, "Contact-aware non-prehensile manipulation for object retrieval in cluttered environments", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023. [[Paper](https://arxiv.org/abs/2303.03635)] [[Website](https://director-of-g.github.io/push_in_clutter/)]
+3. **Y. Jiang**, Y. Jia, and X. Li, "Contact-aware non-prehensile manipulation for object retrieval in cluttered environments", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023. [[Paper](https://arxiv.org/abs/2303.03635)] [[Website](https://director-of-g.github.io/push_in_clutter/)]
 4. **Y. Jiang**, J. Hu, and H. Liu, "Collision Risk Prediction for Vehicles with Sensor Data Fusion through a Machine Learning Pipeline", International Conference on Transportation and Development (**ICTD**), 2022.
 
 **Competitions**
