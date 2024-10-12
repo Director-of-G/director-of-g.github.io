@@ -9,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-# Introduction
-
 I am Yongpeng Jiang (姜永鹏), a second-year PhD student in the [Intelligent Manipulation Lab](https://thu-irml.com), Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home).
 
 Currently my research focuses on dexterous manipulation under rich contacts, especially with multi-fingered hands. It's an honor to have been working with [Mingrui Yu](https://mingrui-yu.github.io/) in dexterous manipulation and deformable objects manipulation, and with [Xiangjie Yan](https://yanseim.github.io/) in human-robot collaboration. They are people of great ability and enthusiasm.
@@ -26,7 +24,7 @@ Ph.D. student in Control Science and Engineering
 GPA: 3.97/4.0
 
 **Department of Automation, Tsinghua University (Beijing, China)** &emsp; _08/2019 - 06/2023_  
-B.Eng. in Automation
+B.Eng. in Automation  
 GPA: 3.95/4.0, Ranking: 4/160
 
 ---
@@ -34,11 +32,11 @@ GPA: 3.95/4.0, Ranking: 4/160
 # Research Experience
 
 **Department of Automation, Tsinghua University (Beijing, China)** &emsp; _07/2021 - 02/2022_  
-Advisor: Prof. Jianming Hu 
+Advisor: Prof. Jianming Hu  
 Topic: Sensor fusion for intelligent transportation system
 
 **Department of Driverless Delivery, Meituan (Beijing, China)** &emsp; _07/2022 - 09/2022_  
-Advisor: Bolin Zhao
+Advisor: Bolin Zhao  
 Topic: Vehicle trajectory prediction
 
 ---
@@ -65,7 +63,7 @@ Topic: Vehicle trajectory prediction
 
 ---
 
-**Awards & Honors**
+# Awards & Honors
 
 -  清华大学”未来学者“奖学金 (Futurologist Scholarship) &emsp; _2023_
 -  北京市优秀毕业生 &emsp; _2023_
